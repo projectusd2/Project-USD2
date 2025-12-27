@@ -191,11 +191,3 @@ Current work focuses on formalizing the activity measurement methodology and val
 - Deploy to mainnet
 
 No timeline is provided. Each phase completes when technical requirements are satisfied.
-
-## Disclaimer
-
-USD2 is an experimental system. It has not been audited. It may contain errors. The design may change during implementation. No guarantees are made regarding functionality, security, or economic outcomes.
-
-This system is infrastructure. It is not an investment vehicle. It makes no promises regarding value, returns, or utility. USD2 exists as a technical exploration of second-order value recycling mechanisms.
-
-Use at your own risk.
